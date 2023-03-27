@@ -6,12 +6,12 @@
 
 ```JSON
 {
-    "Name":"Stanislav",
-    "MiddleName":"Maksimovich",
-    "LastName":"Vysotskyi",
-    "NickName":"ArdenHide",
-    "DateOfBirth":"2001-06-26",
-    "DateOfDeath":null,
+    "Name": "Stanislav",
+    "MiddleName": "Maksimovich",
+    "LastName": "Vysotskyi",
+    "NickName": "ArdenHide",
+    "DateOfBirth": "2001-06-26",
+    "DateOfDeath": null,
     "Skills": {
         "Languages": [
             "C#",
