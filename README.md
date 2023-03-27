@@ -11,7 +11,32 @@
     "LastName":"Vysotskyi",
     "NickName":"ArdenHide",
     "DateOfBirth":"2001-06-26",
-    "DateOfDeath":null
+    "DateOfDeath":null,
+    "Skills": {
+        "Languages": [
+            "C#",
+            "T-SQL"
+        ],
+        "Technologies": {
+            "C#": [
+                "ASP.NET Core",
+                "EF Core",
+                "WPF",
+                "Windows Forms",
+                "AWS SDK for .NET",
+                "Web3 Nethereum"
+            ],
+            "SQL": [
+                "Microsoft SQL Server"
+            ],
+            "AWS": [
+                "Amazon SQS",
+                "AWS Lambda",
+                "Amazon API Gateway",
+                "AWS Step Functions State Machines"
+            ]
+        }
+    }
 }
 ```
 
