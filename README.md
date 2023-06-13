@@ -1,6 +1,6 @@
 ## Hi there! I am Stanislav, A.K.A ArdenHide 👋
 
-### I am a Back-End developer, and music producser :musical_keyboard:
+### I am a Back-End developer, and music producer :musical_keyboard:
 
 #### This JSON should be a description of me :yum:
 
