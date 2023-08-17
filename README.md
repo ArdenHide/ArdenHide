@@ -40,6 +40,9 @@
 }
 ```
 
+> All living organisms have a limited life cycle and eventually die.
+> This is a natural mechanism of life and death, which has not yet been hacked by any developer.
+
 ***
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ArdenHide&theme=dark&hide_border=true)](https://git.io/streak-stats)
