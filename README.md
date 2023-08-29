@@ -34,6 +34,10 @@
                 "AWS Lambda",
                 "Amazon API Gateway",
                 "AWS Step Functions State Machines"
+            ],
+            "API": [
+                "REST",
+                "GraphQL"
             ]
         }
     }
