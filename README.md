@@ -33,7 +33,8 @@
                 "Amazon SQS",
                 "AWS Lambda",
                 "Amazon API Gateway",
-                "AWS Step Functions State Machines"
+                "AWS Step Functions State Machines",
+                "AWS AppSync"
             ],
             "API": [
                 "REST",
